@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @suhana-shirol
 - 🌱 I’m currently a fourth year industrial engineering major at GT.
-- ✨ Current interests: quantum algs, quadratic programs
 
 <!---
 suhana-shirol/suhana-shirol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
